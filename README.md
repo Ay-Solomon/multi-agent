@@ -4,7 +4,6 @@ This repository contains two innovative projects that demonstrate the power of m
 
 ## 📂 Project Structure
 
-
 ```
 multi-agent/
 ├── financial-analysis/    # AI agents for financial analysis and trading
