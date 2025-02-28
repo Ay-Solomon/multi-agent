@@ -10,6 +10,7 @@ multi-agent/
 └── jobhunting-crew/      # AI agents for resume optimization and job hunting
 ```
 
+
 ## 🚀 Projects Overview
 
 ### 1. Financial Analysis Agents
