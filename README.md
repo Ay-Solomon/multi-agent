@@ -19,7 +19,7 @@ multi-agent/
   <img src="financial-analysis/images/01-crewai-overview.png" alt="AI Financial Crew Breakdown" width="600">
 </p>
 
-A sophisticated multi-agent system designed for financial analysis and trading strategy development. The system employs four specialized agents working in collaboration:
+A sophisticated multi-agent system designed for financial analysis and trading strategy development, eventually leading to realtime options trading strategy. The system employs four specialized agents working in collaboration:
 
 * **Data Analyst Agent**: Processes and analyzes financial data
 * **Trading Strategy Agent**: Develops market strategies
